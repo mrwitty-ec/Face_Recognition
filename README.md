@@ -12,21 +12,21 @@ Instructions :
 
 Step 1 - Install the dependencies 
           
-I opencv 
+I  opencv 
 *        sudo apt install python3-opencv
           
-II face_recognition
+II  face_recognition
 *        sudo apt install face-recognition
           
-III imutils
+III  imutils
 *        sudo apt install impiputils
 
-IV openBLAS library
+IV  openBLAS library
 *        sudo apt install libopenblas-dev
 
 Step 2 - Download the code from the github repository. 
 
-Step 3 - Create a New Folder in the dataset folder with the persons name as you wish.
+Step 3 - Create a New Folder named dataset and within the dataset create another folder named afer the persons name as you wish.
 
 Step 4 - Open the face_shot.py file using thonny and replace the name(witty) in the line 3 with the person's name. And run the code. Once the code runs without any error you can see the camera feed window. Press "spacebar" to capture the model image and "esc" to exit.
 
