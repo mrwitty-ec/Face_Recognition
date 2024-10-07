@@ -25,7 +25,7 @@ Step 1 - Install the dependencies
 (IV)  openBLAS library
 *        sudo apt install libopenblas-dev
 
-Step 2 - Download the code from the github repository. 
+Step 2 - Download the code from the github repository. https://github.com/mrwitty-ec/Face_Recognition.git 
 
 Step 3 - Create a New Folder named dataset and within the dataset create another folder named afer the persons name as you wish.
 
