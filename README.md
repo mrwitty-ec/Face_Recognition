@@ -20,7 +20,7 @@ Step 1 - Install the dependencies
 *        sudo apt install face-recognition
           
 (III)  imutils
-*        sudo apt install impiputils
+*        sudo apt install imutils
 
 (IV)  openBLAS library
 *        sudo apt install libopenblas-dev
